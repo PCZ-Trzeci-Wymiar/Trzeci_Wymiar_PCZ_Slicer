@@ -36,6 +36,7 @@ def triangle_plane_intersection(v0, v1, v2, z):
     if len(points) == 2:
         return points
     return None
+#penis  
 
 # ===========================
 # 4. Tworzenie segmentów dla warstw
